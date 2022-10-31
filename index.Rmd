@@ -1,0 +1,16 @@
+---
+title: "Yi Huang"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+---
+
+# Welcome to my personal website!
+
+<img src = "images/E00E943D.jpeg" style = "width:30%">
+
+I graduated from Binghamton University in 2022 with BS in Mathematics and Economics. Currently I’m graduate student studying Biostatistics at Mailman school of public health, Columbia University. 
+
+To know me better, please click [here](about.html).
